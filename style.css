@@ -1,0 +1,14 @@
+#AmazonButton {
+    font-family: "Fredoka";
+    font-size: 25px;
+    background-color: aqua;
+    border-radius: 35px;
+    outline-style: solid;
+    outline-color: darkred;
+}
+
+#TitreH1 {
+    font-family: "Fredoka";
+    font-size: 5cap;
+    color: darkgreen;
+}
